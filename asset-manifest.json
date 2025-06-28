@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scrum-memory-game/static/css/main.b5dfe939.css",
+    "main.js": "/scrum-memory-game/static/js/main.8e17c5c5.js",
+    "static/js/453.61c41845.chunk.js": "/scrum-memory-game/static/js/453.61c41845.chunk.js",
+    "index.html": "/scrum-memory-game/index.html",
+    "main.b5dfe939.css.map": "/scrum-memory-game/static/css/main.b5dfe939.css.map",
+    "main.8e17c5c5.js.map": "/scrum-memory-game/static/js/main.8e17c5c5.js.map",
+    "453.61c41845.chunk.js.map": "/scrum-memory-game/static/js/453.61c41845.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5dfe939.css",
+    "static/js/main.8e17c5c5.js"
+  ]
+}
